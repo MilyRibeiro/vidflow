@@ -1,5 +1,3 @@
-![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".](./thumb.png)
-
 # VidFlow
 
 O VidFlow é uma plataforma de compartilhamento de vídeos.
@@ -32,7 +30,7 @@ Após baixar ou clonar o projeto deste repositório, você precisa ter o [Node.j
 Caso não tenha o `json-server` instalado globalmente, execute o seguinte comando:
 
 ```bash
-npm install -g json-server@0.17.4
+npm install -g json-server
 ```
 
 Com o Node.js e o `json-server` instalados, execute o seguinte comando para disponibilizar a API local de vídeos:
